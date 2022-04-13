@@ -22,7 +22,7 @@
 <br>
 
 ## A snake feeding on my contributions
-![snake gif](https://github.com/Arnav-Barman/Arnav-Barman/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Arnav-Barman/Arnav-Barman/blob/output/github-contribution-grid-snake.svg)
 
 ## **Connect with me 🌎:**
 <p align="left">
