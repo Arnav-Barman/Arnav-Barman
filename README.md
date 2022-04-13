@@ -3,7 +3,6 @@
 ## About Me🧔🏻‍♂️
 - I'm a sophomore pursuing Computer Engineering at Thapar Institute of Engineering and Technology.
 - I have interest in DevOps, Cloud and Robotics!
----
 
 <!-- BLOG-POST-LIST:START -->
 <!-- ### 📝 My Blogs: -->
@@ -21,13 +20,23 @@
 <a href="https://github.com/Arnav-Barman/github-readme-stats"><img alt="Arnav's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav-Barman&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br>
 
+<!-- Add github stats and contributions graph when the consistency is maintained -->
+
 ## A snake feeding on my contributions
 ![snake gif](https://github.com/Arnav-Barman/Arnav-Barman/blob/output/github-contribution-grid-snake.svg)
 
-## **Connect with me 🌎:**
-<p align="left">
-<a href = "https://www.linkedin.com/in/arnavbarman/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> 
-<a href = "https://instagram.com/_arnavbarman_"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://twitter.com/barman_arnav"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"</a> 
-<a href="mailto:arnavbarman1@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>    
-</p>
+---
+
+<details>
+    <summary> 
+        Connect with me 🌎 
+    </summary>
+        <p align="left">
+        <a href = "https://www.linkedin.com/in/arnavbarman/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+        <a href = "https://instagram.com/_arnavbarman_"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+        <a href = "https://twitter.com/barman_arnav"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"</a> 
+        <a href="mailto:arnavbarman1@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>    
+        </p>
+</details>
+
+<!-- Add recent activities when the consistency is maintained -->
