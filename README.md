@@ -20,10 +20,10 @@
 <br>
 <a href="https://github.com/Arnav-Barman/github-readme-stats"><img alt="Arnav's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav-Barman&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br>
-<!--
+
 ## A snake feeding on my contributions
 ![snake gif](https://github.com/Arnav-Barman/Arnav-Barman/blob/output/github-contribution-grid-snake.gif)
--->
+
 ## **Connect with me 🌎:**
 <p align="left">
 <a href = "https://www.linkedin.com/in/arnavbarman/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> 
