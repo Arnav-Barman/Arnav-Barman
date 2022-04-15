@@ -35,7 +35,8 @@
         <a href = "https://www.linkedin.com/in/arnavbarman/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
         <a href = "https://instagram.com/_arnavbarman_"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
         <a href = "https://twitter.com/barman_arnav"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"</a> 
-        <a href="mailto:arnavbarman1@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>    
+        <a href="mailto:arnavbarman1@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a> 
+        <a href="https://hashnode.com/@ArnavBarman"><img src="https://img.icons8.com/color/48/000000/hashnode.png"/></a>
         </p>
 </details>
 
