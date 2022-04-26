@@ -16,7 +16,7 @@
     <a href="https://www.linux.org/" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
     <a href="https://www.ros.org/" target="_blank"> <img align="center" src="https://www.ros.org/imgs/logo-white.png" width="80px"/> </a>
     <a href="https://www.python.org/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="43" height="43"/> </a>
-    <a href="https://daringfireball.net/projects/markdown/" target="_blank"> <img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="MarkDown" width="40" height="40"/> </a>
+    <a href="https://daringfireball.net/projects/markdown/" target="_blank"> <img  align="center" src="https://img.icons8.com/fluency/48/000000/markdown.png" alt="MarkDown"/> </a>
     <a href="https://www.raspberrypi.org/" target="_blank"> <img align="center" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/> </a>
     <a href="https://www.arduino.cc/" target="_blank"> <img align="center" src= "https://img.icons8.com/fluency/48/000000/arduino.png" alt="Arduino" width="40" height="40"/> </a>
     <a href="https://www.digitalocean.com/community/tutorials/an-introduction-to-the-linux-terminal/" target="_blank"> <img align="center" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="40" height="40"/> </a>
