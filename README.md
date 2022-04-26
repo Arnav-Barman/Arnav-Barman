@@ -15,6 +15,12 @@
     <a href="https://git-scm.com/" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.linux.org/" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
     <a href="https://www.ros.org/" target="_blank"> <img align="center" src="https://www.ros.org/imgs/logo-white.png" width="80px"/> </a>
+    <a href="https://www.python.org/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="43" height="43"/> </a>
+    <a href="https://daringfireball.net/projects/markdown/" target="_blank"> <img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="MarkDown" width="40" height="40"/> </a>
+    <a href="https://www.raspberrypi.org/" target="_blank"> <img align="center" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/> </a>
+    <a href="https://www.arduino.cc/" target="_blank"> <img align="center" src= "https://img.icons8.com/fluency/48/000000/arduino.png" alt="Arduino" width="40" height="40"/> </a>
+    <a href="https://www.digitalocean.com/community/tutorials/an-introduction-to-the-linux-terminal/" target="_blank"> <img align="center" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="40" height="40"/> </a>
+    <a href="https://www.canva.com" target="_blank"> <img align="center" src= "https://img.icons8.com/doodle/48/000000/canva.png/" alt="Canva"> </a>
 </p>
 <br>
 <a href="https://github.com/Arnav-Barman/github-readme-stats"><img alt="Arnav's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav-Barman&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -40,4 +46,5 @@
         </p>
 </details>
 
+<a href="https://www.buymeacoffee.com/arnavbarman"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=arnavbarman&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 <!-- Add recent activities when the consistency is maintained -->
