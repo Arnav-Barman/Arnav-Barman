@@ -4,9 +4,8 @@
 - I'm a sophomore pursuing Computer Engineering at Thapar Institute of Engineering and Technology.
 - I have interest in DevOps, Cloud and Robotics!
 
-<!-- BLOG-POST-LIST:START -->
-<!-- ### 📝 My Blogs: -->
-<!-- BLOG-POST-LIST:END -->
+### 📝 My Blogs:
+- [A beginner's guide to Dualbooting Windows with Ubuntu: Part 1](https://kubesimplify.com/a-beginners-guide-to-dualbooting-windows-with-ubuntu-part-1)
 
 ## 👨🏻‍💻 **What I know**
 <p align="left"> 
