@@ -6,6 +6,7 @@
 
 ### 📝 My Blogs:
 - [A beginner's guide to Dualbooting Windows with Ubuntu: Part 1](https://kubesimplify.com/a-beginners-guide-to-dualbooting-windows-with-ubuntu-part-1)
+- [A beginner's guide to Dualbooting Windows with Ubuntu: Part 2](https://kubesimplify.com/a-beginners-guide-to-dualbooting-windows-with-ubuntu-part-2)
 
 ## 👨🏻‍💻 **What I know**
 <p align="left"> 
