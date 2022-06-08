@@ -1,4 +1,4 @@
-# Hey <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28px">, I'm [Arnav!](https://linktr.ee/arnav_barman)
+# Hey <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm [Arnav!](https://linktr.ee/arnav_barman)
 ![Banner](https://i.ibb.co/VTfnPv1/1643148388409.jpg)
 ## 🧔🏻‍♂️ About Me
 - I'm a sophomore pursuing Computer Engineering at Thapar Institute of Engineering and Technology.
@@ -27,7 +27,7 @@
 <a href="https://github.com/Arnav-Barman/github-readme-stats"><img alt="Arnav's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav-Barman&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br>
 
-> The above stats just displays the codebase in my github. It must not be mistaken for my experience or skill level.
+>  The above stats display the codebase in my GitHub. It must not be mistaken for my experience or skill level.
 
 <!-- Add github stats and contributions graph when the consistency is maintained -->
 
