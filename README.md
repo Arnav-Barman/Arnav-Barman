@@ -17,6 +17,7 @@
     <a href="https://www.linux.org/" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
     <a href="https://www.ros.org/" target="_blank"> <img align="center" src="https://www.ros.org/imgs/logo-white.png" width="80px"/> </a>
     <a href="https://www.python.org/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="43" height="43"/> </a>
+    <a href="https://go.dev" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="43" height="43"/> </a>
     <a href="https://www.yaml.org/" target="_blank"> <img align="center" src="https://avatars.githubusercontent.com/u/69535?s=200&v=4" alt="YAML" width="43" height="43"/> </a>
     <a href="https://daringfireball.net/projects/markdown/" target="_blank"> <img  align="center" src="https://img.icons8.com/fluency/48/000000/markdown.png" alt="MarkDown"/> </a>
     <a href="https://www.raspberrypi.org/" target="_blank"> <img align="center" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/> </a>
