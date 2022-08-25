@@ -1,7 +1,7 @@
 # Hey <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm [Arnav!](https://linktr.ee/arnav_barman)
 ![Banner](https://i.ibb.co/VTfnPv1/1643148388409.jpg)
 ## 🧔🏻‍♂️ About Me
-- I'm a sophomore pursuing Computer Engineering at Thapar Institute of Engineering and Technology.
+- I'm a pre-final year student pursuing Computer Engineering at Thapar Institute of Engineering and Technology.
 - I have interest in DevOps, Cloud and Robotics!
 
 ## 📝 My Blogs:
