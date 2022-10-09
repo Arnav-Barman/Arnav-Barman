@@ -3,6 +3,7 @@
 ## 🧔🏻‍♂️ About Me
 - I'm a pre-final year student pursuing Computer Engineering at Thapar Institute of Engineering and Technology.
 - I have interest in DevOps, Cloud and Robotics!
+- Download my resume from [here](https://drive.google.com/file/d/137Y9nBx0jMFRlcNzwUMpQeTYn0BtZUAz/view?usp=sharing).
 
 ## 📝 My Blogs:
 - [A beginner's guide to Dualbooting Windows with Ubuntu: Part 1](https://kubesimplify.com/a-beginners-guide-to-dualbooting-windows-with-ubuntu-part-1)
@@ -47,9 +48,9 @@
 <a href="mailto:arnavbarman1@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="35" height="35"/></a> 
 <a href="https://hashnode.com/@ArnavBarman"><img src="https://img.icons8.com/color/48/000000/hashnode.png" width="35" height="35"/></a>
 </p>
-    
+<!--    
 ## 😀 Support me in my journey
     
 <a href="https://www.buymeacoffee.com/arnavbarman"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=arnavbarman&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" width="20%" height="20%"/></a>
-
+-->
 <!-- Add recent activities when the consistency is maintained -->
