@@ -3,7 +3,7 @@
 ## 🧔🏻‍♂️ About Me
 - I'm a pre-final year student pursuing Computer Engineering at Thapar Institute of Engineering and Technology.
 - I have interest in DevOps, Cloud and Robotics!
-- Download my resume from [here](https://drive.google.com/file/d/137Y9nBx0jMFRlcNzwUMpQeTYn0BtZUAz/view?usp=sharing).
+- Download my resume from [here](https://drive.google.com/file/d/13jZGpw94zXJb1VKS43ZkVfaoNxAZihHu/view?usp=share_link).
 
 ## 📝 My Blogs:
 - [A beginner's guide to Dualbooting Windows with Ubuntu: Part 1](https://kubesimplify.com/a-beginners-guide-to-dualbooting-windows-with-ubuntu-part-1)
@@ -24,7 +24,7 @@
     <a href="https://www.raspberrypi.org/" target="_blank"> <img align="center" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/> </a>
     <a href="https://www.arduino.cc/" target="_blank"> <img align="center" src= "https://img.icons8.com/fluency/48/000000/arduino.png" alt="Arduino" width="40" height="40"/> </a>
     <a href="https://www.digitalocean.com/community/tutorials/an-introduction-to-the-linux-terminal/" target="_blank"> <img align="center" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="40" height="40"/> </a>
-    <a href="https://www.canva.com" target="_blank"> <img align="center" src= "https://img.icons8.com/doodle/48/000000/canva.png/" alt="Canva"> </a>
+    <a href="https://www.canva.com" target="_blank"> <img align="center" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/600px-Canva_icon_2021.svg.png" alt="Canva" width="40" height="40> </a>
 </p>
 <br>
 <a href="https://github.com/Arnav-Barman/github-readme-stats"><img alt="Arnav's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav-Barman&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
