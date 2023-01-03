@@ -1,4 +1,4 @@
-# Hey <img src="https://github.com/eramkhann/eramkhann/blob/main/waving-hand-joypixels.gif" width="28">, I'm [Arnav!](https://linktr.ee/arnav_barman)
+# Hey 👋🏻, I'm [Arnav!](https://linktr.ee/arnav_barman)
 ![Banner](https://i.ibb.co/VTfnPv1/1643148388409.jpg)
 ## 🧔🏻‍♂️ About Me
 - I'm a pre-final year student pursuing Computer Engineering at Thapar Institute of Engineering and Technology.
@@ -6,9 +6,10 @@
 - Download my resume from [here](https://drive.google.com/file/d/13jZGpw94zXJb1VKS43ZkVfaoNxAZihHu/view?usp=share_link).
 
 ## 📝 My Blogs:
-- [A beginner's guide to Dualbooting Windows with Ubuntu: Part 1](https://kubesimplify.com/a-beginners-guide-to-dualbooting-windows-with-ubuntu-part-1)
-- [A beginner's guide to Dualbooting Windows with Ubuntu: Part 2](https://kubesimplify.com/a-beginners-guide-to-dualbooting-windows-with-ubuntu-part-2)
-- [Cloud Computing: What is it? And why should you care?](https://kubesimplify.com/cloud-computing)
+- [A beginner's guide to Dualbooting Windows with Ubuntu: Part 1](https://blog.kubesimplify.com/a-beginners-guide-to-dualbooting-windows-with-ubuntu-part-1)
+- [A beginner's guide to Dualbooting Windows with Ubuntu: Part 2](https://blog.kubesimplify.com/a-beginners-guide-to-dualbooting-windows-with-ubuntu-part-2)
+- [Cloud Computing: What is it? And why should you care?](https://blog.kubesimplify.com/cloud-computing)
+- [Firewall: A Network's Gatekeeper](https://blog.kubesimplify.com/firewall-a-networks-gatekeeper)
 
 ## 👨🏻‍💻 **What I know**
 <p align="left"> 
@@ -26,7 +27,7 @@
     <a href="https://www.digitalocean.com/community/tutorials/an-introduction-to-the-linux-terminal/" target="_blank"> <img align="center" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="40" height="40"/> </a>
     <a href="https://www.canva.com" target="_blank"> <img align="center" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/600px-Canva_icon_2021.svg.png" alt="Canva" width="40" height="40> </a>
 </p>
-<br>
+<br><br>      
 <a href="https://github.com/Arnav-Barman/github-readme-stats"><img alt="Arnav's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav-Barman&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br>
 
