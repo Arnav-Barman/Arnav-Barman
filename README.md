@@ -3,7 +3,7 @@
 ## 🧔🏻‍♂️ About Me
 - I'm a pre-final year student pursuing Computer Engineering at Thapar Institute of Engineering and Technology.
 - I have interest in DevOps, Cloud and Robotics!
-- Download my resume from [here](https://drive.google.com/file/d/13jZGpw94zXJb1VKS43ZkVfaoNxAZihHu/view?usp=share_link).
+- Download my resume from [here](https://drive.google.com/file/d/1Kx7VO261CURP6AfkIUSxvE2wGD-N5jKh/view?usp=share_link).
 
 ## 📝 My Blogs:
 - [A beginner's guide to Dualbooting Windows with Ubuntu: Part 1](https://blog.kubesimplify.com/a-beginners-guide-to-dualbooting-windows-with-ubuntu-part-1)
