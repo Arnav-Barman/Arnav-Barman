@@ -4,6 +4,8 @@
 - I'm a pre-final year student pursuing Computer Engineering at Thapar Institute of Engineering and Technology.
 - I have interest in DevOps, Cloud and Robotics!
 - Download my resume from [here](https://drive.google.com/file/d/1Kx7VO261CURP6AfkIUSxvE2wGD-N5jKh/view?usp=share_link).
+- <img src="https://img.shields.io/github/followers/Arnav-Barman?label=Follow&style=social" />
+- <img src="https://komarev.com/ghpvc/?username=Arnav-Barman&label=Profile%20views&color=0e75b6&style=flat" alt="Arnav-Barman" />
 
 ## 📝 My Blogs:
 - [A beginner's guide to Dualbooting Windows with Ubuntu: Part 1](https://blog.kubesimplify.com/a-beginners-guide-to-dualbooting-windows-with-ubuntu-part-1)
@@ -49,9 +51,6 @@
 <a href = "https://twitter.com/barman_arnav"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="35" height="35"/></a> 
 <a href="mailto:arnavbarman1@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="35" height="35"/></a> 
 <a href="https://hashnode.com/@ArnavBarman"><img src="https://img.icons8.com/color/48/000000/hashnode.png" width="35" height="35"/></a>
-<br>
-<img src="https://img.shields.io/github/followers/Arnav-Barman?label=Follow&style=social" />
-<img src="https://komarev.com/ghpvc/?username=Arnav-Barman&label=Profile%20views&color=0e75b6&style=flat" alt="Arnav-Barman" />
 </p>
         
 <!-- ## 😀 Support me in my journey
