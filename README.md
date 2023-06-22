@@ -1,7 +1,7 @@
 # Hey 👋🏻, I'm [Arnav!](https://linktr.ee/arnav_barman)
 ![Banner](https://i.ibb.co/VTfnPv1/1643148388409.jpg)
 ## 🧔🏻‍♂️ About Me
-- I'm a pre-final year student pursuing Computer Engineering at Thapar Institute of Engineering and Technology.
+- I'm a final year student pursuing Computer Engineering at Thapar Institute of Engineering and Technology.
 - I have interest in DevOps, Cloud and Robotics!
 - Download my resume from [here](https://drive.google.com/file/d/1Kx7VO261CURP6AfkIUSxvE2wGD-N5jKh/view?usp=share_link).
 - <img src="https://img.shields.io/github/followers/Arnav-Barman?label=Follow&style=social" />
