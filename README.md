@@ -3,7 +3,7 @@
 ## 🧔🏻‍♂️ About Me
 - I'm a final year student pursuing Computer Engineering at Thapar Institute of Engineering and Technology.
 - I have interest in DevOps, Cloud and Robotics!
-- Download my resume from [here](https://drive.google.com/file/d/1Kx7VO261CURP6AfkIUSxvE2wGD-N5jKh/view?usp=share_link).
+- Download my resume from [here](https://drive.google.com/file/d/1i2Lj5RJtC4Lu_pPCqYQYwzHch7vXhcBg/view?usp=sharing).
 - <img src="https://img.shields.io/github/followers/Arnav-Barman?label=Follow&style=social" />
 - <img src="https://komarev.com/ghpvc/?username=Arnav-Barman&label=Profile%20views&color=0e75b6&style=flat" alt="Arnav-Barman" />
 
